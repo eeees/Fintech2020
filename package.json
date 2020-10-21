@@ -1,0 +1,23 @@
+{
+  "name": "fintech_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "httpserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eeees/Fintech2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eeees/Fintech2020/issues"
+  },
+  "homepage": "https://github.com/eeees/Fintech2020#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "request": "^2.88.2"
+  }
+}
